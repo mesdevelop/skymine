@@ -1,5 +1,5 @@
 {
-  "name": "cloud-mining-saas",
+  "name": "skymine",
   "version": "1.0.0",
   "scripts": {
     "start": "node index.js",
