@@ -16,10 +16,3 @@ Thumbs.db
 # IDE specific files
 .vscode/
 .idea/
-
-# Temporary/system files
-/AppData/
-/Local/
-/.*.xml
-/.*.json
-/Documents/
