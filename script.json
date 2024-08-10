@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "start": "node index.js",
-    "migrate": "node migrate.js",
+    "start": "npm start",
+    "migrate": "npm run migrate",
     "build": "npm run build"
   }
 }
