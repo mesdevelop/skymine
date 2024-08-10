@@ -1,7 +1,1 @@
-{
-  "scripts": {
-    "start": "npm start",
-    "migrate": "npm run migrate",
-    "build": "npm run build"
-  }
-}
+
