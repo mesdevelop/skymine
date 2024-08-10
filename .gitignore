@@ -1,0 +1,57 @@
+# Ignora file di sistema di Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Ignora file di sistema specifici
+NTUSER.DAT*
+*.LOG1
+*.LOG2
+*.ini
+*.bat
+*.vbs
+
+# Ignora cartelle comuni di sistema
+AppData/
+OneDrive/
+Tracing/
+Contacts/
+Creative Cloud Files/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+VirtualBox VMs/
+
+# Ignora cartelle e file di configurazione specifici
+.android/
+.cache/
+.config/
+.dbus-keyrings/
+.idlerc/
+.local/
+.node_repl_history
+.npmrc
+.vscode/
+.gitconfig
+.git-for-windows-updater
+
+# Ignora moduli Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ignora cartelle di build
+dist/
+build/
