@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+# Ignora i file temporanei e i file di sistema
+/AppData/
+/Local/
+/.*.xml
+/.*.json
+/Documents/
+.DS_Store
+Thumbs.db
+node_modules/
+.env
+
