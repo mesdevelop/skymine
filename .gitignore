@@ -46,6 +46,7 @@ VirtualBox VMs/
 .vscode/
 .gitconfig
 .git-for-windows-updater
+.env
 
 # Ignora moduli Node.js
 node_modules/
